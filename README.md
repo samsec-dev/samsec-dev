@@ -1,7 +1,7 @@
 # Hola, soy Samuel 👋 (samsec-dev)
 
 ### 🐍 Estudiante de Python & Ciberseguridad
-Actualmente estoy aprendiendo las bases de la programación con Python, con la meta de aplicarlo profesionalmente al mundo de la ciberseguridad.
+  Actualmente estoy aprendiendo las bases de la programación con Python, con la meta de aplicarlo profesionalmente al mundo de la ciberseguridad.
 
 - 🔭 **En qué estoy trabajando:** Dominando la lógica de Python (variables, bucles, funciones y manejo de datos).
 - 🌱 **Aprendiendo:** Cómo usar Python para automatizar tareas sencillas y entender la estructura de los sistemas.
