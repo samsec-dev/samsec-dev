@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Samuel 👋 (samsec-dev)
 
-<!--
-**samsec-dev/samsec-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Estudiante de Python & Ciberseguridad
+Actualmente estoy aprendiendo las bases de la programación con Python, con la meta de aplicarlo profesionalmente al mundo de la ciberseguridad.
 
-Here are some ideas to get you started:
+- 🔭 **En qué estoy trabajando:** Dominando la lógica de Python (variables, bucles, funciones y manejo de datos).
+- 🌱 **Aprendiendo:** Cómo usar Python para automatizar tareas sencillas y entender la estructura de los sistemas.
+- ⚡ **Meta:** Construir una base sólida en programación antes de pasar a herramientas avanzadas de seguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack en desarrollo
+- **Lenguaje principal:** Python (Nivel inicial).
+- **Entorno:** Linux / Windows.
+- **Intereses:** Automatización, Seguridad de la información y Redes.
+
+---
+
+### 📂 En este perfil podras ver un poco de mi proceso de aprendizaje y como voy indexando algunos scripts mientras vaya avanzando.
